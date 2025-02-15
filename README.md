@@ -30,7 +30,7 @@ Each snippet contains a question-answer interaction between a chatbot and a huma
 
 ## _What can I do with this data?_
 
-This dataset can be used to train and evaluate models for detecting various forms of mental health stigma in text, develop more empathetic conversational agents, and study how stigmatizing language manifests in natural conversations.
+This dataset can be used to train and evaluate models for detecting various forms of mental-health stigma in text, develop more empathetic conversational agents, and study how stigmatizing language manifests in natural conversations.
 
 ## _How do I cite this work?_
 
