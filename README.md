@@ -4,7 +4,7 @@ _What is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Cor
 
 [Han Meng](https://sites.google.com/view/han-meng/home), Yancan Chen, Yunan Li, Yitian Yang, [Jungup Lee](https://junguplee.com/), [Renwen Zhang](https://renwenzhang.com/), [Yi-Chieh Lee](https://www.yclee.net/), National University of Singapore
 
-[[Read the Paper]](https://arxiv.org/abs/2505.12727) | [[Access the Data]](https://forms.gle/vXp5JqtF6qu19ig3A)
+[[Read the Paper]](https://arxiv.org/abs/2505.12727) | [[Access the Data]](https://forms.gle/qLSr9nHUymHo8bpr6)
 
 <div align="center">
 <img src="teaser.png" width="500" alt="teaser">
