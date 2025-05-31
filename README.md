@@ -2,9 +2,9 @@
 
 _What is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Demystifying Mental-Health Stigma_
 
-[Han Meng](https://hanmeng2004.github.io/), Yancan Chen, Yunan Li, Yitian Yang, [Jungup Lee](https://junguplee.com/), [Renwen Zhang](https://renwenzhang.com/), [Yi-Chieh Lee](https://www.yclee.net/), National University of Singapore
+[Han Meng](https://sites.google.com/view/han-meng/home), Yancan Chen, Yunan Li, Yitian Yang, [Jungup Lee](https://junguplee.com/), [Renwen Zhang](https://renwenzhang.com/), [Yi-Chieh Lee](https://www.yclee.net/), National University of Singapore
 
-[[Read the Paper (Coming Soon!)]](https://hanmeng2004.github.io/) | [[Access the Data]](https://forms.gle/vXp5JqtF6qu19ig3A)
+[[Read the Paper]](https://arxiv.org/abs/2505.12727) | [[Access the Data]](https://forms.gle/vXp5JqtF6qu19ig3A)
 
 <div align="center">
 <img src="teaser.png" width="500" alt="teaser">
@@ -34,4 +34,20 @@ This dataset can be used to train and evaluate models for detecting various form
 
 ## _How do I cite this work?_
 
-Arxiv coming soon!
+```
+@inproceedings{meng-etal-2025-what,
+    title = "What is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Demystifying Mental-Health Stigma",
+    author = "Meng, Han  and
+      Chen, Yancan  and
+      Li, Yunan  and
+      Yang, Yitian  and
+      Lee, Jungup  and
+      Zhang, Renwen  and
+      Lee, Yi-Chieh",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics"
+}
+```
