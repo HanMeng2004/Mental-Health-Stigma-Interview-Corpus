@@ -1,4 +1,4 @@
-# [ACL 2025 Main] Mental Health Stigma Interview Corpus
+# [ACL 2025 Oral] Mental-Health Stigma Interview Corpus
 
 _What is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Demystifying Mental-Health Stigma_
 
