@@ -35,7 +35,7 @@ This dataset can be used to train and evaluate models for detecting various form
 ## _How do I cite this work?_
 
 ```
-@inproceedings{meng-etal-2025-what,
+@inproceedings{meng-etal-2025-stigma,
     title = "What is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Demystifying Mental-Health Stigma",
     author = "Meng, Han  and
       Chen, Yancan  and
@@ -44,10 +44,18 @@ This dataset can be used to train and evaluate models for detecting various form
       Lee, Jungup  and
       Zhang, Renwen  and
       Lee, Yi-Chieh",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
     booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
     month = jul,
     year = "2025",
     address = "Vienna, Austria",
-    publisher = "Association for Computational Linguistics"
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.272/",
+    pages = "5453--5490",
+    ISBN = "979-8-89176-251-0",
+    abstract = "Mental-health stigma remains a pervasive social problem that hampers treatment-seeking and recovery. Existing resources for training neural models to finely classify such stigma are limited, relying primarily on social-media or synthetic data without theoretical underpinnings. To remedy this gap, we present an expert-annotated, theory-informed corpus of human-chatbot interviews, comprising 4,141 snippets from 684 participants with documented socio-cultural backgrounds. Our experiments benchmark state-of-the-art neural models and empirically unpack the challenges of stigma detection. This dataset can facilitate research on computationally detecting, neutralizing, and counteracting mental-health stigma. Our corpus is openly available at https://github.com/HanMeng2004/Mental-Health-Stigma-Interview-Corpus."
 }
 ```
