@@ -1,10 +1,10 @@
-# [ACL 2025 Oral] Mental-Health Stigma Interview Corpus
+# [ACL 2025 Oral, SAC Highlight] Mental-Health Stigma Interview Corpus
 
-_What is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Demystifying Mental-Health Stigma_
+[[Read the Paper]](https://aclanthology.org/2025.acl-long.272/) _What is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Demystifying Mental-Health Stigma_
 
 [Han Meng](https://sites.google.com/view/han-meng/home), Yancan Chen, Yunan Li, Yitian Yang, [Jungup Lee](https://junguplee.com/), [Renwen Zhang](https://renwenzhang.com/), [Yi-Chieh Lee](https://www.yclee.net/), National University of Singapore
 
-[[Read the Paper]](https://arxiv.org/abs/2505.12727) | [[Access the Data]](https://forms.gle/qLSr9nHUymHo8bpr6)
+
 
 <div align="center">
 <img src="teaser.png" width="500" alt="teaser">
